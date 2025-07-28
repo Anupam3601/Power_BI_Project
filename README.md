@@ -1,2 +1,3 @@
 # Power_BI_Project
-This Power BI project presents an interactive and visually engaging Supermarket Sales Dashboard, designed for analyzing and forecasting retail sales performance across regions
+This repository contains a Power BI dashboard project focused on [brief topic, e.g., Sales Analysis, Customer Insights, Social Media Engagement]. The goal is to provide meaningful visual insights using interactive visuals and DAX-based calculations.
+
